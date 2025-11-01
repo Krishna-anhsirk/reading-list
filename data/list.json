@@ -1,0 +1,34 @@
+[
+  {
+    "name": "AI Revolution in Healthcare",
+    "link": "https://example.com/ai-healthcare",
+    "source": "Example News",
+    "status": "read",
+    "liking": false,
+    "revisit": false
+  },
+  {
+    "name": "Understanding Quantum Computing",
+    "link": "https://example.com/quantum-computing",
+    "source": "Tech Insights",
+    "status": "unread",
+    "liking": true,
+    "revisit": true
+  },
+  {
+    "name": "Global Economic Trends 2025",
+    "link": "https://example.com/economic-trends-2025",
+    "source": "World Economics Daily",
+    "status": "unread",
+    "liking": true,
+    "revisit": false
+  },
+  {
+    "name": "Beginner’s Guide to Investing",
+    "link": "https://example.com/investing-guide",
+    "source": "Finance Hub",
+    "status": "read",
+    "liking": false,
+    "revisit": true
+  }
+]
